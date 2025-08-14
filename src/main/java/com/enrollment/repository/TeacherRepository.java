@@ -1,5 +1,6 @@
 package com.enrollment.repository;
-import com.enrollment.model.Teacher;
+
+import com.enrollment.entity.Teacher;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
